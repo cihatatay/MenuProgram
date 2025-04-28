@@ -61,16 +61,19 @@ while (true)
         // Soyisim Güncellemesi   
         var newLastName = Helper.Ask("Soyisim");
         if (!string.IsNullOrEmpty(newLastName)) student.LastName = newLastName;
-        // İsim Güncellemesi    
+        // Doğum Günü Güncellemesi    
         var newBirthDate = Helper.Ask("Doğum Tarihi(gg/aa/yyyy)");
         if (!string.IsNullOrEmpty(newBirthDate)) student.BirthDate = DateOnly.Parse(newBirthDate);
-        // İsim Güncellemesi    
+        // Cinsiyet Güncellemesi    
         var newGender = Helper.Ask("Cinsiyet");
         if (!string.IsNullOrEmpty(newGender))  student.Gender = newGender;
+        // TC Kimlik no Güncellemesi
         var newTckn = Helper.Ask("TC Kimlik No");
         if (!string.IsNullOrEmpty(newTckn))  student.Tckn = newTckn;
+        // Öğrenci Numarası Güncellemesi
         var newStudentId = Helper.Ask("Öğrenci Numarası");
         if (!string.IsNullOrEmpty(newStudentId))  student.StudentId = newStudentId;
+        // Not Ortalaması Güncellemesi
         var newGpa = Helper.Ask("Not Ortalaması");
         if (!string.IsNullOrEmpty(newGpa))  student.Gpa = newGpa;
     }
