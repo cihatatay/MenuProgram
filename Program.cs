@@ -68,11 +68,11 @@ while (true)
         var newGender = Helper.Ask("Cinsiyet");
         if (!string.IsNullOrEmpty(newGender))  student.Gender = newGender;
         var newTckn = Helper.Ask("TC Kimlik No");
-        if (!string.IsNullOrEmpty(newTckn))  student.Tckn = newGender;
+        if (!string.IsNullOrEmpty(newTckn))  student.Tckn = newTckn;
         var newStudentId = Helper.Ask("Öğrenci Numarası");
-        if (!string.IsNullOrEmpty(newStudentId))  student.StudentId = newGender;
+        if (!string.IsNullOrEmpty(newStudentId))  student.StudentId = newStudentId;
         var newGpa = Helper.Ask("Not Ortalaması");
-        if (!string.IsNullOrEmpty(newGpa))  student.Gpa = newGender;
+        if (!string.IsNullOrEmpty(newGpa))  student.Gpa = newGpa;
     }
     else
     {
