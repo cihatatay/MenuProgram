@@ -1,0 +1,14 @@
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.AssemblyInfoInputs.cache
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.AssemblyInfo.cs
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.csproj.CoreCompileInputs.cache
+C:\Users\knabe\Documents\works\MenuProgram\bin\Debug\net8.0\MenuProgram.exe
+C:\Users\knabe\Documents\works\MenuProgram\bin\Debug\net8.0\MenuProgram.deps.json
+C:\Users\knabe\Documents\works\MenuProgram\bin\Debug\net8.0\MenuProgram.runtimeconfig.json
+C:\Users\knabe\Documents\works\MenuProgram\bin\Debug\net8.0\MenuProgram.dll
+C:\Users\knabe\Documents\works\MenuProgram\bin\Debug\net8.0\MenuProgram.pdb
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.dll
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\refint\MenuProgram.dll
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.pdb
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\MenuProgram.genruntimeconfig.cache
+C:\Users\knabe\Documents\works\MenuProgram\obj\Debug\net8.0\ref\MenuProgram.dll
